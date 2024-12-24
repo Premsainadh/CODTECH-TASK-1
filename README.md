@@ -23,8 +23,8 @@ The primary goal of this task was to identify and exploit vulnerabilities in a d
 2. **SQLmap:**
    - An automated SQL injection tool that helps identify and exploit SQL vulnerabilities.
 
-3. **OWASP ZAP (Optional):**
-   - A GUI-based web vulnerability scanner (if used).
+3. **OWASP ZAP:**
+   - A GUI-based web vulnerability scanner.
 
 ---
 
