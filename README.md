@@ -1,5 +1,14 @@
-# CODTECH-TASK-1
-# Task 3: Web Application Penetration Testing
+**NAME:** MANIKALA PREM SAINADH
+**COMPANY:** CODTECH IT SOLUTIONS
+**ID:** CT08DS374
+**DOMAIN:** Cyber Security and Ethical Hacking
+**DURATION:** December 2024 to January 2025
+**MENTOR:** NEHA
+
+
+# Overview of the project
+
+# Project: Web Application Penetration Testing
 
 ## Objective
 The primary goal of this task was to identify and exploit vulnerabilities in a deliberately insecure web application (**DVWA**) to understand how attackers can exploit weaknesses in real-world web applications. This testing also helps us learn how to secure applications by mitigating these vulnerabilities.
@@ -99,7 +108,7 @@ After identifying these vulnerabilities, the following measures were suggested t
 ## Challenges Encountered
 
 ### 1. MySQL Authentication Issue:
-- The error `Access denied for user 'users'@'localhost'` occurred due to insufficient privileges for the MySQL user `user`.
+- The error `Access denied for user 'user'@'localhost'` occurred due to insufficient privileges for the MySQL user `user`.
 - **Resolution:** Logged in as `root` and granted proper permissions to `user`.
 
 ### 2. Configuration Adjustments:
@@ -109,8 +118,16 @@ After identifying these vulnerabilities, the following measures were suggested t
 
 ## Outcome
 1. Successfully identified and exploited SQL Injection and XSS vulnerabilities in DVWA.
+   - **Screenshot:** Below is an example of SQL Injection output, showcasing extracted user data from the database.
+     ![SQL Injection Output](path/to/sql-injection-screenshot.png)
+
 2. Automated SQL injection exploitation using SQLmap.
+   - **Screenshot:** Below is an example of SQLmap output showing database dumping results.
+     ![SQLmap Output](path/to/sqlmap-screenshot.png)
+
 3. Gained hands-on experience with common web vulnerabilities and their mitigations.
+   - **Screenshot:** Below is an example of XSS exploitation with the alert pop-up.
+     ![XSS Exploitation](path/to/xss-exploitation-screenshot.png)
 
 ---
 
