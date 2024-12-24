@@ -99,8 +99,8 @@ After identifying these vulnerabilities, the following measures were suggested t
 ## Challenges Encountered
 
 ### 1. MySQL Authentication Issue:
-- The error `Access denied for user 'prems'@'localhost'` occurred due to insufficient privileges for the MySQL user `prems`.
-- **Resolution:** Logged in as `root` and granted proper permissions to `prems`.
+- The error `Access denied for user 'users'@'localhost'` occurred due to insufficient privileges for the MySQL user `user`.
+- **Resolution:** Logged in as `root` and granted proper permissions to `user`.
 
 ### 2. Configuration Adjustments:
 - Required editing the `config.inc.php` file to set correct database credentials.
