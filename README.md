@@ -1,9 +1,9 @@
-**NAME:** MANIKALA PREM SAINADH
-**COMPANY:** CODTECH IT SOLUTIONS
-**ID:** CT08DS374
-**DOMAIN:** Cyber Security and Ethical Hacking
-**DURATION:** December 2024 to January 2025
-**MENTOR:** NEHA
+**NAME:** MANIKALA PREM SAINADH  
+**COMPANY:** CODTECH IT SOLUTIONS  
+**ID:** CT08DS374  
+**DOMAIN:** Cyber Security and Ethical Hacking  
+**DURATION:** December 2024 to January 2025  
+**MENTOR:** NEHA  
 
 
 # Overview of the project
