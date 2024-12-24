@@ -118,15 +118,15 @@ After identifying these vulnerabilities, the following measures were suggested t
 
 ## Outcome
 1. Successfully identified and exploited SQL Injection and XSS vulnerabilities in DVWA.
-   - **Screenshot:** Below is an example of SQL Injection output, showcasing extracted user data from the database.
+   - Below is an example of SQL Injection output, showcasing extracted user data from the database.
      ![SQL Injection Output](path/to/sql-injection-screenshot.png)
 
 2. Automated SQL injection exploitation using SQLmap.
-   - **Screenshot:** Below is an example of SQLmap output showing database dumping results.
+   - Below is an example of SQLmap output showing database dumping results.
      ![SQLmap Output](path/to/sqlmap-screenshot.png)
 
 3. Gained hands-on experience with common web vulnerabilities and their mitigations.
-   - **Screenshot:** Below is an example of XSS exploitation with the alert pop-up.
+   - Below is an example of XSS exploitation with the alert pop-up.
      ![XSS Exploitation](path/to/xss-exploitation-screenshot.png)
 
 ---
